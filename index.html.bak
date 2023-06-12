@@ -9,7 +9,8 @@
 </head>
 <body style="background-color:#eeeeee"">
 	<div class="container-fluid bg-dark text-white text-center">
-		<h1>Hi, my name is Tristan</h1><h2>and I am a software developer</h2>
+		<h1>Hi, my name is Tristan</h1>
+		<h2>and I am a software developer</h2>
 	</div>
 	<div class="container m-5">
 		<div class="row text-center">
