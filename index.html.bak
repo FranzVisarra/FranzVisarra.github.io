@@ -47,7 +47,7 @@
 				<p>I made this game for a course and it demonstrates my abilities. Object generation, movement mechanics and projectile collision. It was made with <a href="https://processing.org/">Processing</a>, which is based in java, so i cannot imbed it on the website.</p>
 				<video width="320" height="240" controls>
 					unsupported
-					<source src="videos/DemoVid.mkv" type="video/mkv">
+					<source src="videos/Demo.mp4" type="video/mp4">
 				</video>
 			</div>
 		</div>
